@@ -1,0 +1,20 @@
+import Home from "../src/app/page"
+
+class Notes {
+    constructor(Title, Content){
+        this.Title = Title
+        this.Content = Content
+
+    }
+}
+
+function NewNotes() {
+
+           var Inputnotes 
+  
+
+    return(Inputnotes)
+}
+
+
+export default NewNotes;
